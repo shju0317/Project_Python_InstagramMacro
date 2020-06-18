@@ -12,14 +12,14 @@ Python 기반의 Selenium(feat: Chrome Driver)을 사용하여 인스타그램�
 Use the same version as the Chrome browser version you use!)
 
 ## :floppy_disk:Repository structure description
-#### 1.practice
+#### 1. practice
   - [chapter01_crawl](https://github.com/ChoLong02/Project_Python_InstagramMacro/blob/master/practice/chapter01_crawl.py)
   - [chapter02_webdriver](https://github.com/ChoLong02/Project_Python_InstagramMacro/blob/master/practice/chapter02_webdriver.py)
   - [chapter03_selenium_crawl](https://github.com/ChoLong02/Project_Python_InstagramMacro/blob/master/practice/chapter03_selenium_crawl.py)
   - [chapter04_facebook_login](https://github.com/ChoLong02/Project_Python_InstagramMacro/blob/master/practice/chapter04_facebook_login.py)
-#### 2.libs
+#### 2. libs
   - [crawler](https://github.com/ChoLong02/Project_Python_InstagramMacro/blob/master/libs/crawler.py)
-#### 3.instagram
+#### 3. instagram
   - [hashtag_reply_macro](https://github.com/ChoLong02/Project_Python_InstagramMacro/blob/master/instagram/hashtag_reply_macro.py)
 
 ## :speech_balloon:How to use?
